@@ -154,7 +154,9 @@
 
 어떤 부분에 가중을 두었는지, 어떤 사용자 편의성을 고려하였는지에 대한 설명이 필요합니다.
 
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/3ee15730-81b7-44ae-9fa4-d7e63209166d" />
 
+내 실력과 시간이 부족해여...이런 허접한 대시보드를 만들었음음 ㅠㅠ
 
 <br>
 
